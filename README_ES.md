@@ -1,5 +1,3 @@
-¡Por supuesto! Aquí tienes una versión en español del README:  
-
 ---
 
 # 🌟 ¡Bienvenido a Mi GitHub!  
