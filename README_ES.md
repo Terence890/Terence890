@@ -34,5 +34,3 @@ Siempre estoy abierto a aprender de otros y contribuir a proyectos emocionantes.
 Cuando no estoy programando, puedes encontrarme explorando tendencias tecnológicas, diseñando soluciones únicas o viendo mis series de ciencia ficción favoritas.  
 
 ---  
-
-¿Te gustaría personalizar algo más? 😊
