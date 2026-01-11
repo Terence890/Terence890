@@ -1,9 +1,9 @@
 # 🌟 Welcome to My GitHub!  
 
-Hi there! I'm **Terence**, an enthusiastic student currently pursuing my **Master of Computer Applications (MCA)** at **Reva University**. This is where I bring my ideas to life, dive into exciting projects, and explore the endless possibilities of tech!  
+Hi there! I'm **Chethan**, an enthusiastic student currently pursuing my **Master of Computer Applications (MCA)** at **Reva University**. This is where I bring my ideas to life, dive into exciting projects, and explore the endless possibilities of tech!  
 
 ## 🌟 About Me  
-- 🎓 **Name**: Terence
+- 🎓 **Name**: Chethan
 - 🎓 **University**: Reva University  
 - 💻 **Passionate About**: Coding, 3D Web Development, AI, and Machine Learning  
 - 🚀 **Aspirations**: To create impactful solutions and contribute to cutting-edge technologies  
